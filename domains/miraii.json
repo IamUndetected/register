@@ -1,0 +1,11 @@
+{
+  "description": "Miraii's Website",
+  "repo": "https://github.com/IamUndetected/iamundetected.github.io",
+  "owner": {
+    "username": "IamUndetected",
+    "email": "derfisch467@gmail.com"
+  },
+  "record": {
+    "CNAME": "iamundetected.github.io"
+  }
+}
